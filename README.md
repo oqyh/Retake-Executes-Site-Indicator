@@ -4,7 +4,7 @@
 
 
 # [CSGO] Retake Executes Site Indicator (1.0.0)
-https://forums.alliedmods.net/showthread.php?p=2786726
+https://forums.alliedmods.net/showthread.php?p=2788364
 
 ### Indicate which site to retake/Executes print chat , hint , sound
 
