@@ -14,7 +14,7 @@ https://forums.alliedmods.net/showthread.php?p=2788364
 ## .:[ Requirements ]:.
 ```
 1- SourceMod 1.11+
-2- FixHintColorMessages ([url]https://github.com/Franc1sco/FixHintColorMessages[/url])
+2- FixHintColorMessages (https://github.com/Franc1sco/FixHintColorMessages)
 ```
 
 ## .:[ Retake ConVars ]:.
