@@ -11,6 +11,11 @@ https://forums.alliedmods.net/showthread.php?p=2788364
 ![alt text](https://github.com/oqyh/Retake-Executes-Site-Indicator/blob/main/zimg/2.png?raw=true)
 ![alt text](https://github.com/oqyh/Retake-Executes-Site-Indicator/blob/main/zimg/1.png?raw=true)
 
+## .:[ Retake ConVars ]:.
+```
+1- SourceMod 1.11+
+2- FixHintColorMessages ([url]https://github.com/Franc1sco/FixHintColorMessages[/url])
+```
 
 ## .:[ Retake ConVars ]:.
 ```
