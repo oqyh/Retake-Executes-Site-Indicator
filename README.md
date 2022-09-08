@@ -15,35 +15,35 @@ https://forums.alliedmods.net/showthread.php?p=2788364
 ## .:[ Retake ConVars ]:.
 ```
 // Enable chat  site indicator || 1= Yes || 0= No
-sm_executes_chat_site "1"
+sm_retake_chat_site "1"
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Enable hint  site indicator AFTER PLANT || 1= Yes || 0= No
-sm_executes_hint_after "1"
+sm_retake_hint_after "1"
 
 // How long hint bomb site HUD should be displayed AFTER PLANT
-sm_executes_hud_after "5"
+sm_retake_hud_after "5"
 
 
 // Enable hint site indicator BEFORE PLANT || 1= Yes || 0= No
-sm_executes_hint_before "1"
+sm_retake_hint_before "1"
 
 // How long hint bomb site HUD should be displayed BEFORE PLANT
-sm_executes_hud_before "5"
+sm_retake_hud_before "5"
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Enable sound  site indicator || 1= Yes || 0= No
-sm_executes_sound_site "0"
+sm_retake_sound_site "0"
 
 // Path Sound For Site A
-// Default: "gold_kingz/sitea/ExecutesOnAsite.mp3"
-sm_executes_sound_sitea "gold_kingz/sitea/ExecutesOnAsite.mp3"
+// Default: "gold_kingz/sitea/RetakeOnAsite.mp3"
+sm_retake_sound_sitea "gold_kingz/sitea/RetakeOnAsite.mp3"
 
 // Path Sound For Site B
-// Default: "gold_kingz/siteb/ExecutesOnBsite.mp3"
-sm_executes_sound_siteb "gold_kingz/siteb/ExecutesOnBsite.mp3"
+// Default: "gold_kingz/siteb/RetakeOnBsite.mp3"
+sm_retake_sound_siteb "gold_kingz/siteb/RetakeOnBsite.mp3"
 ```
 
 ## .:[ Executes ConVars ]:.
