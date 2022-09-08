@@ -13,7 +13,7 @@ https://forums.alliedmods.net/showthread.php?p=2788364
 
 ## .:[ Requirements ]:.
 ```
-1- SourceMod 1.11+
+1- SourceMod 1.10+
 2- FixHintColorMessages (https://github.com/Franc1sco/FixHintColorMessages)
 ```
 
